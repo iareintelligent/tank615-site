@@ -8647,6 +8647,9 @@ a.text-gray-dark:hover {
 .scale-y-075 {
   transform: scaleY(0.75); }
 
+.tread {
+  height: 80px; }
+
 html,
 body {
   width: 100%;
