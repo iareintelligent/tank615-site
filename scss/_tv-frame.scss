@@ -50,7 +50,6 @@ body {
     @extend %extend_1;
     position: absolute;
     display: flex;
-    pointer-events: none;
 }
 .tvframe {
     position: absolute;
@@ -58,6 +57,7 @@ body {
     height: 517px;
     z-index: 150;
     background: $url_11;
+    pointer-events: none;
 }
 @-webkit-keyframes tvin {
     0% {
